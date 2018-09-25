@@ -1,0 +1,18 @@
+{
+  "name": "vscsignature",
+  "version": "1.0.0",
+  "description": "Signature add-in for Visual Studio Code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/harshankur/vscsignature"
+  },
+  "author": "Harsh Ankur",
+  "license": "MIT",
+  "dependencies": {
+    "yo": "^2.0.5"
+  }
+}
